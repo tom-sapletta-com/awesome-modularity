@@ -1,5 +1,6 @@
 # awesome-modularity :thumbsup: :thumbsup: :thumbsup:
 A curated list of awesome books, libraries, frameworks and ecosystems related to modular architecture
++ How to develop component-based software?
 
 <p align="center">
   <br>
