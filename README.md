@@ -86,9 +86,9 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 ## Need more ?
 
 Follow **Hypermodularity** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
- - Twitter : [@HackwithGithub](https://twitter.com/Hypermodularity)
- - Facebook : [HackwithGithub](https://www.facebook.com/Hypermodularity)
- - Linkedin : [HackwithGithub](https://www.facebook.com/Hypermodularity)
+ - Twitter : [@Hypermodularity](https://twitter.com/Hypermodularity)
+ - Facebook : [Hypermodularity](https://www.facebook.com/Hypermodularity)
+ - Linkedin : [Hypermodularity](https://www.facebook.com/Hypermodularity)
 
 
 <p align="center">
