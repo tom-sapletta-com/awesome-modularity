@@ -14,7 +14,7 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 [![GitHub stars](https://img.shields.io/github/stars/tom-sapletta-com/awesome-modularity.svg?style=flat&label=Star)](https://github.com/tom-sapletta-com/awesome-modularity/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tom-sapletta-com/awesome-modularity.svg?style=flat&label=Fork)](https://github.com/tom-sapletta-com/awesome-modularity/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/tom-sapletta-com/awesome-modularity.svg?style=flat&label=Watch)](https://github.com/tom-sapletta-com/awesome-modularity/watchers)
-[![GitHub followers](https://img.shields.io/github/followers/tom-sapletta-com.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/tom-sapletta-com)
+[![GitHub followers](https://img.shields.io/github/followers/tom-sapletta-com.svg?label=Modularity)](https://github.com/tom-sapletta-com)
 
 
 
