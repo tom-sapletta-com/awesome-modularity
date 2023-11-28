@@ -82,6 +82,11 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 
 
 
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tom-sapletta-com/awesome-modularity&type=Date)](https://star-history.com/#tom-sapletta-com/awesome-modularity&Date)
+
+
 
 ## Need more ?
 
