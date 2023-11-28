@@ -3,12 +3,6 @@
 A curated list of awesome books, libraries, frameworks and ecosystems related to modular architecture
 + How to develop component-based software?
 
-<p align="center">
-  <br>
-  <img width="400" src="./assets/logo.svg" alt="logo of awesome-modularity repository">
-  <br>
-  <br>
-</p>
 
 ## Awesome Modularity [![Awesome](https://cdn.rawgit.com/tom-sapletta-com/awesome-modularity/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tom-sapletta-com/awesome-modularity)
 
@@ -99,6 +93,18 @@ Follow **Hypermodularity** on your favorite social media to get daily updates on
  - Facebook : [HackwithGithub](https://www.facebook.com/Hypermodularity)
  - Linkedin : [HackwithGithub](https://www.facebook.com/Hypermodularity)
 
+
+<p align="center">
+  <br>
+  <img width="400" src="./assets/logo.svg" alt="logo of awesome-modularity repository">
+  <br>
+  <br>
+</p>
+
+---
+
++ [edit](https://github.com/tom-sapletta-com/awesome-modularity/edit/main/README.md)
++ [git projects](https://github.com/tom-sapletta-com/)
 
 
 ## Contributions
