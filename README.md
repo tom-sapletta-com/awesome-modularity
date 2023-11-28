@@ -15,7 +15,7 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 ## Resources
 
 ### Conferences
-- [GOTO Conference](https://www.gotocon.com/) - A software development conference designed for developers, team leads, architects, and project managers.
+- [GOTO Conferences, tech and software events | Learn & Grow | gotopia.tech](https://gotopia.tech/)
 - [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/)
 
   
