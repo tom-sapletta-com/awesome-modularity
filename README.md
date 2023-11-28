@@ -1,6 +1,13 @@
 # awesome-modularity :thumbsup: :thumbsup: :thumbsup:
 A curated list of awesome books, libraries, frameworks and ecosystems related to modular architecture
 
+<p align="center">
+  <br>
+  <img width="400" src="./assets/logo.svg" alt="logo of awesome-modularity repository">
+  <br>
+  <br>
+</p>
+
 ## Awesome Modularity [![Awesome](https://cdn.rawgit.com/tom-sapletta-com/awesome-modularity/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tom-sapletta-com/awesome-modularity) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/tom-sapletta-com/awesome-modularity) 
 
 [![GitHub stars](https://img.shields.io/github/stars/tom-sapletta-com/awesome-modularity.svg?style=flat&label=Star)](https://github.com/tom-sapletta-com/awesome-modularity/stargazers)
