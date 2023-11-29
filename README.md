@@ -5,13 +5,6 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 + How to develop component-based software?
 
 
-
-## About
-
-+ [CONTRIBUTION](CONTRIBUTION.md) are always welcome !
-
-
-
 ## Resources
 
 ### Conferences
@@ -118,12 +111,11 @@ Follow **Hypermodularity** on your favorite social media to get daily updates on
   <br>
 </p>
 
----
-
-+ [edit](https://github.com/tom-sapletta-com/awesome-modularity/edit/main/README.md)
-+ [git projects](https://github.com/tom-sapletta-com/)
-
 
 ## Contributions
 
-Please have a look at [CONTRIBUTION](CONTRIBUTION.md) 
+Please have a look at [CONTRIBUTION](CONTRIBUTION.md),[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
++ did you found any [Issue](https://github.com/tom-sapletta-com/awesome-modularity/issues/new)?
++ do you want to [improve](https://github.com/tom-sapletta-com/awesome-modularity/edit/main/README.md) the article?
++ are you interested do join another [git projects](https://github.com/tom-sapletta-com/)?
+  
