@@ -22,19 +22,37 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 ### Blog Posts
 - [Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html) - A detailed article about microservices architecture.
 - [Component-Based Software Engineering: The Future of Software Development by TechTalks](https://techtalks.example.com/component-based-software-architecture)
+
+
+### Podcasts
+
+- [Software Engineering Daily](https://softwareengineeringdaily.com/) - Daily interviews about technical software topics
+- [Software Engineering Radio](http://www.se-radio.net/)
+
+### Youtube Channels
+
+- [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks) - Tech Talks at Google
+- [Kevlin Henney - Software Architecture](https://www.youtube.com/results?search_query=kevlin+henney+software+architecture)
+- 
+
+
+### Free books
+- [Hyper Modularity book by Tom Sapletta - draft](https://www.hypermodularity.com/)
   
 ### Books
 - [Building Microservices by Sam Newman](http://shop.oreilly.com/product/0636920033158.do) - Designing fine-grained systems
 - [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
-### Books online
-- 
+
 
 ### Courses
 - [Pluralsight: Designing and Building Modular Systems](https://www.pluralsight.com/courses/designing-building-modular-systems) - Learn about building modular software
 - [Software Architecture: The C4 Model on Udemy](https://www.udemy.com/course/software-architecture-c4/)
 -
-  
+
+### Free Courses
+-
+
 ### Documentaries
 - [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI) - Chronicles the story behind the Linux operating system
 - [Revolution OS](https://www.revolution-os.com/)
@@ -60,17 +78,6 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 ### Community
 - [Reactiflux Discord Community](https://www.reactiflux.com/) - Chat community for React developers
 - [Stack Exchange - Software Engineering](https://softwareengineering.stackexchange.com/)
-
-### Podcasts
-
-- [Software Engineering Daily](https://softwareengineeringdaily.com/) - Daily interviews about technical software topics
-- [Software Engineering Radio](http://www.se-radio.net/)
-
-### Youtube Channels
-
-- [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks) - Tech Talks at Google
-- [Kevlin Henney - Software Architecture](https://www.youtube.com/results?search_query=kevlin+henney+software+architecture)
-- 
 
 
 
