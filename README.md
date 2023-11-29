@@ -87,7 +87,10 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 - [Vue.js Examples](https://github.com/vuejs/vue) - A collection of Vue.js examples.
 
 
-## Other useful repositories
+## Other useful links
+
++ [Architectural pattern - Wikipedia](https://en.wikipedia.org/wiki/Architectural_pattern)
++ [Hexagonal architecture (software) - Wikipedia](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 
 
 
