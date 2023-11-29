@@ -114,8 +114,8 @@ Follow **Hypermodularity** on your favorite social media to get daily updates on
 
 ## Contributions
 
-Please have a look at [CONTRIBUTION](CONTRIBUTION.md),[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
-+ did you found any [Issue](https://github.com/tom-sapletta-com/awesome-modularity/issues/new)?
+[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
++ did you found an [Issue or Mistake](https://github.com/tom-sapletta-com/awesome-modularity/issues/new)?
 + do you want to [improve](https://github.com/tom-sapletta-com/awesome-modularity/edit/main/README.md) the article?
 + are you interested do join another [git projects](https://github.com/tom-sapletta-com/)?
   
