@@ -91,8 +91,10 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 
 + [Architectural pattern - Wikipedia](https://en.wikipedia.org/wiki/Architectural_pattern)
 + [Hexagonal architecture (software) - Wikipedia](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
-
-
++ [Exploring the Hexagonal Architecture](https://www.infoq.com/news/2014/10/exploring-hexagonal-architecture/)
++ [Hexagonal architecture – Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
++ [The Onion Architecture : part 1 - Programming with Palermo](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
++ 
 
 # Star History
 
