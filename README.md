@@ -5,6 +5,7 @@
 A curated list of awesome books, libraries, frameworks and ecosystems related to modular architecture
 + How to develop component-based software?
 
+Have something to contribute or discuss? [Open a pull request](https://github.com/tom-sapletta-com/awesome-modularity/pulls) or [create an issue](https://github.com/tom-sapletta-com/awesome-modularity/issues).
 
 ## Resources
 
