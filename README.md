@@ -57,7 +57,8 @@ A curated list of awesome books, libraries, frameworks and ecosystems related to
 
 - [Apache Camel](https://camel.apache.org/)
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
--
+- [Dapr](https://github.com/dapr) Dapr is a portable, event-driven, runtime for building distributed applications across the cloud and edge
+  - [dapr/cli: Command-line tools for Dapr.](https://github.com/dapr/cli)
 
 ### Apps/Websites
 - [TodoMVC](http://todomvc.com/) - Helping you select an MV* framework
