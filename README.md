@@ -17,7 +17,8 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 ### Blog Posts
 - [Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html) - A detailed article about microservices architecture.
 - [Component-Based Software Engineering: The Future of Software Development by TechTalks](https://techtalks.example.com/component-based-software-architecture)
-
+- [hyper architecture](https://blog.hyper.io/hyper-architecture/)
+- 
 
 ### Podcasts
 
@@ -48,6 +49,8 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [Software Architecture: The C4 Model on Udemy](https://www.udemy.com/course/software-architecture-c4/)
 -
 
+### Presentations
+- [CBSE, © Prof. Uwe Aßmann 1 Component-Based Software - introduction.pdf](https://st.inf.tu-dresden.de/files/teaching/ss10/cbse/01-introduction.pdf)
 
 ### Documentaries
 - [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI) - Chronicles the story behind the Linux operating system
@@ -98,6 +101,10 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 + [Hexagonal architecture – Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
 + [The Onion Architecture : part 1 - Programming with Palermo](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 + 
+
+## Wikipedia
+
++ [Component-based software engineering - Wikipedia](https://en.wikipedia.org/wiki/Component-based_software_engineering)
 
 # Star History
 
