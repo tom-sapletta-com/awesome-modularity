@@ -72,6 +72,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 ### Commercial Products
 - [IBM WebSphere](https://www.ibm.com/cloud/websphere-application-platform) 
 
+
 ### Job Portal
 - [Stack Overflow Jobs - Software Architecture](https://stackoverflow.com/jobs/software-architecture)
 
@@ -105,6 +106,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 ## Wikipedia
 
 + [Component-based software engineering - Wikipedia](https://en.wikipedia.org/wiki/Component-based_software_engineering)
++ [Common Object Request Broker Architecture - Wikipedia](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 
 # Star History
 
