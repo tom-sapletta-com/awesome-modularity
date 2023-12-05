@@ -45,26 +45,33 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 
 ### Free books
+
 - [Hyper Modularity book by Tom Sapletta - draft](https://www.hypermodularity.com/)
+- 
 
   
 ### Books
+
 - [Building Microservices by Sam Newman](http://shop.oreilly.com/product/0636920033158.do) - Designing fine-grained systems
 - [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [An Introduction To Component-based Software Development - Google Books](https://www.google.de/books/edition/An_Introduction_To_Component_based_Softw/oIcvDwAAQBAJ?hl=pl&gbpv=0)
 - [Component-Based Software Engineering - Google Books](https://www.google.de/books/edition/Component_Based_Software_Engineering/77X_DwAAQBAJ?hl=pl&gbpv=0)
+- 
 
 
 ### Free Courses
 - 
 
 ### Courses
+
 - [Pluralsight: Designing and Building Modular Systems](https://www.pluralsight.com/courses/designing-building-modular-systems) - Learn about building modular software
 - [Software Architecture: The C4 Model on Udemy](https://www.udemy.com/course/software-architecture-c4/)
 -
 
 ### Presentations
+
 - [CBSE, © Prof. Uwe Aßmann 1 Component-Based Software - introduction.pdf](https://st.inf.tu-dresden.de/files/teaching/ss10/cbse/01-introduction.pdf)
+- 
 
 
 ### Documentaries
@@ -96,6 +103,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [IBM WebSphere](https://www.ibm.com/cloud/websphere-application-platform)
 - [What is a data fabric? - IBM](https://www.ibm.com/topics/data-fabric)
 - [SCS: Self-contained Systems](https://scs-architecture.org/)
+- [Hypermodular Kiosk Solutions: Olea's Pinnacle of Flexibility](https://www.olea.com/product/hypermodular/)
 
   
 
