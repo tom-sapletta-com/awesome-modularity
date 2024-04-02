@@ -177,7 +177,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 Follow **Hypermodularity** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - Twitter : [@Hypermodularity](https://twitter.com/Hypermodularity)
  - Facebook : [Hypermodularity](https://www.facebook.com/Hypermodularity)
- - Linkedin : [Hypermodularity](https://www.facebook.com/Hypermodularity)
+ - Linkedin : [Hypermodularity](https://www.linkedin.com/Hypermodularity)
 
 
 <p align="center">
